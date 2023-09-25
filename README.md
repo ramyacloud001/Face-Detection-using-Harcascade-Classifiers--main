@@ -15,8 +15,6 @@ Haar Cascade Classifiers are based on Haar wavelets, which are mathematical func
 
 A Haar Cascade Classifier is a machine learning algorithm that uses a set of positive and negative training samples to learn a model for face detection. The classifier is trained using a process called Adaboost, which combines weak classifiers (i.e., classifiers that perform only slightly better than chance) into a strong classifier. The resulting classifier is a weighted combination of weak classifiers that can be used to classify new images.
 
-## Testing Image:
-![App Screenshot](https://github.com/ramyacloud001/Face-Detection-using-Harcascade-Classifiers--main/blob/main/girl.png)
 
 ## How do Haar Cascade Classifiers work?
 Haar Cascade Classifiers work by sliding a sub-window over the image and extracting a set of features for each sub-window. The features are calculated using Haar wavelets and can be represented as a vector. The classifier then uses the vector of features to predict whether the sub-window contains a face or not.
@@ -26,10 +24,6 @@ The process of detecting a face using a Haar Cascade Classifier can be summarize
 -  Classifying the sub-window as either containing a face or not using the learned model
 
 The sub-windows are typically scaled to different sizes to account for variations in the size of faces in the image.
-
-### Result:
-
-![App Screenshot](https://github.com/ramyacloud001/Face-Detection-using-Harcascade-Classifiers--main/blob/main/re.png)
 
 
 ## 🛠 Skills
