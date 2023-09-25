@@ -47,20 +47,11 @@ The sub-windows are typically scaled to different sizes to account for variation
 
 ## Support
 
-For support, email saikamal9797@gmail.com .
+For support, email ramyasri.adepu0107@gmail.com
 
 
 ## Acknowledgements
 
  - [Documentation](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 
-
-## 🔗 Links
-
-For my work you can follow:
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
-
-[Medium](https://medium.com/@korlakuntasaikamal10)
 
