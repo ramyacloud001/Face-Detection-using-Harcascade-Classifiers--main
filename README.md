@@ -41,7 +41,7 @@ The sub-windows are typically scaled to different sizes to account for variation
 
 ## Support
 
-For support, email ramyasri.adepu0107@gmail.com
+For support, email ramyasri.adepu1601@gmail.com
 
 
 ## Acknowledgements
